@@ -7,3 +7,4 @@ hist(mtcars$cyl)
 min(mtcars$cyl)
 >>>>>>> branch-baru
 sd(mtcars$cyl)
+mean(mtcars$cyl)
